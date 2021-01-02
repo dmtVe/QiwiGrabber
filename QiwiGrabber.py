@@ -14,7 +14,7 @@ banner = Fore.YELLOW + Style.BRIGHT + """
 
 print(banner)
 
-token = input("[Eblan] Введите ваш токен: ")
+token = input("[Grabber] Введите ваш токен: ")
 
 if token == "":
  print("[❌] Введите токен!")
